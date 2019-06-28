@@ -1,4 +1,4 @@
-# pipe
+# pipe :shower:
 
 A utility function to use to create pipe line operations for your JavaScript applications.
 
