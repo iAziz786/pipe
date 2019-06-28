@@ -8,6 +8,10 @@ A pipeline operation is bunch of function call that starts with a value and the 
 of last function call is the parameter of the next function call. The sequence of the call
 matters. If we change the sequence then the result will be very different.
 
+```sh
+npm install @iaziz786/pipe
+```
+
 #### Example
 
 ```js
