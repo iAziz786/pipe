@@ -1,4 +1,4 @@
-# pipe :shower:
+# pipe :shower: [![Build Status](https://travis-ci.org/iAziz786/pipe.svg?branch=master)](https://travis-ci.org/iAziz786/pipe)
 
 A utility function to use to create pipe line operations for your JavaScript applications.
 
