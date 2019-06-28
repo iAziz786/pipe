@@ -4,7 +4,7 @@ A utility function to use to create pipe line operations for your JavaScript app
 
 ### What is a pipe line operation?
 
-A pipeline operation is bunch of function call that starts with a parameter and the result
+A pipeline operation is bunch of function call that starts with a value and the result
 of last function call is the parameter of the next function call. The sequence of the call
 matters. If we change the sequence then the result will be very different.
 
