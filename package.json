@@ -1,0 +1,14 @@
+{
+  "name": "pipe",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:iAziz786/pipe.git",
+  "author": "Mohammad Aziz <azizforwork@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
